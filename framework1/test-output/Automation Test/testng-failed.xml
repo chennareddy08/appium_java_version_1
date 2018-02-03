@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Test]">
+  <test name="Smoke TestCases(failed)">
+    <classes>
+      <class name="maven_framework.testlogin">
+        <methods>
+          <include name="testsetup"/>
+        </methods>
+      </class> <!-- maven_framework.testlogin -->
+      <class name="maven_framework.basetestcase">
+        <methods>
+          <include name="testsetup"/>
+        </methods>
+      </class> <!-- maven_framework.basetestcase -->
+    </classes>
+  </test> <!-- Smoke TestCases(failed) -->
+</suite> <!-- Failed suite [Automation Test] -->

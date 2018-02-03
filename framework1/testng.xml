@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+    <test name ="Smoke TestCases">
+        <classes>
+        <class name = "testng_Files.BeforeSuite_AfterSuite" />
+        <class name = "testng_Files.BeforeMethod_AfterMethod_Annotation"/>
+
+     </classes>
+
+
+ </test>
+
+
+
+</suite>
